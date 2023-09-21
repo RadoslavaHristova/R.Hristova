@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">Hello World! :smiling_face_with_open_hands:</h1>
+<h1 align="center">Hello World! :waving_hand:</h1>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning Software and QA engineering at SoftUni since 2023.<br>:woman_student: I have a business management education completed in the UK.<br>:identification_card: I am an ambitious, persistent and curious person.<br>:woman_technologist: Future web developer.<br>📫 How to reach me hristovaradoslava@yahoo.com</p>
+<p align="center">📚 I'm currently learning Software and QA engineering at SoftUni since 2023.<br>:woman_student: I have a business management education completed in the UK.<br>:woman_office_worker: I am an ambitious, persistent and curious person.<br>:woman_technologist: Future web developer.<br>📫 How to reach me hristovaradoslava@yahoo.com</p>
 
 ###
 
