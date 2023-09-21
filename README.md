@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">About me 📖 </h2>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="center">Fun facts</h2>
+<h2 align="center">Fun facts🧩 </h2>
 
 ###
 
