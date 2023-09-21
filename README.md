@@ -5,19 +5,26 @@
 
 ###
 
-<h1 align="left">Hello World! 👋</h1>
+<h1 align="center">Hello World! :woman_raising_hand:</h1>
 
 ###
 
-<p align="left">My name is Radoslava Hristova and I'm 25 years old, from Bulgaria.</p>
+<p align="center">My name is Radoslava Hristova and I'm 25 years old, from Bulgaria.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning Software and QA engineering at SoftUni since 2023.<br>📫 How to reach me hristovaradoslava@yahoo.com</p>
+<p align="center">📚 I'm currently learning Software and QA engineering at SoftUni since 2023.<br>:woman_student: I have a business management education completed in the UK.<br>:identification_card: I am an ambitious, persistent and curious person.<br>:woman_technologist: Future web developer.<br>📫 How to reach me hristovaradoslava@yahoo.com</p>
 
 ###
 
+<h2 align="center">Fun facts</h2>
+
+###
+
+<p align="center">:woman_running: Herbalife Nutrition coach<br>:dove: Traveler<br>:family_woman_girl: Mother of a daughter</p>
+
+###
