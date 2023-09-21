@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">Hello World! :smiling_face_with_smiling_eyes: </h1>
+<h1 align="center">Hello World! 🙋‍♀️ </h1>
 
 ###
 
