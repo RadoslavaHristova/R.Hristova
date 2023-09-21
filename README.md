@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">Hello World! :woman_raising_hand:</h1>
+<h1 align="center">Hello World! :smiling_face_with_open_hands:</h1>
 
 ###
 
@@ -25,6 +25,6 @@
 
 ###
 
-<p align="center">:woman_running: Herbalife Nutrition coach<br>:dove: Traveler<br>:family_woman_girl: Mother of a daughter</p>
+<p align="center">:herb: Herbalife Nutrition coach<br>:dove: Traveler<br>:family_woman_girl: Mother of a daughter</p>
 
 ###
