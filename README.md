@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">My name is Radoslava Hristova and I'm 25 years old, from Bulgaria.</p>
+<p align="center">My name is Radoslava Hristova and I'm 25 years old, from Bulgaria. I am currently studying the C# language at Software University.</p>
 
 ###
 
